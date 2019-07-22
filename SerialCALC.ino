@@ -87,15 +87,15 @@ void solve() { // Custom function that
     result = number1 + number2; // sums the numbers
     // and makes result hold the value of the calculation
     break; // break to exit the "case"
-    case '+' : // if calSignal is '+'
+    case '-' : // if calSignal is '-'
     result = number1 - number2; // subtracts the numbers
     // and makes result hold the value of the calculation
     break; // break to exit the "case"
-    case '+' : // if calSignal is '+'
+    case '*' : // if calSignal is '*'
     result = number1 * number2; // multiplies the numbers
     // and makes result hold the value of the calculation
     break; // break to exit the "case"
-    case '/' : // se calSignal for '/'
+    case '/' : // if calSignal is '/'
     result = number1 / number2; // divides the numbers
     // and makes result hold the value of the calculation
     // PS: in case the division isn't exact, the result 
