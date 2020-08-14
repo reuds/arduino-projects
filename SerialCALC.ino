@@ -6,7 +6,7 @@ It accepts two numbers and a signal, and
 makes the operation, witch can be of +, -, * or /.
 E.G. : send "2+3" (Without quotes and with no
 space separing the info), and arduino answers 5.
-Digit "7-3" and arduino te responde com 4.
+When inputted "7-3" the arduino will respond 4.
 
 Criado por João Paulo Rodrigues Poltronieri
 
